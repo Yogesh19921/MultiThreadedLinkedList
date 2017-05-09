@@ -11,5 +11,5 @@ Instructions to run the test code:
 1. Extract the files in a folder.
 2. Run the command from terminal 
   **_javac *.java_**
-3. Go to the parent folder and run it from there using the command.
+3. Go to the parent folder and run it from there using the command.           
   **_java multithreadedlinkedlist.MultiThreadedLinkedList_** where multithreadedlinkedlist is the name of your package folder.
