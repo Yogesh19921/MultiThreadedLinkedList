@@ -29,18 +29,18 @@ public class MultiThreadedLinkedList {
         
         System.out.println("--------------------------");
         
-        Thread.sleep(3000); //To give it time to run all the threads.
+        Thread.sleep(3000); //To give it time to run all the add threads.
         l1.printList();
         
         
         System.out.println("--------------------------");
         
-        //All the methods here, just create the thread to add to the list. The threads keep
+        //All the methods here, just create the thread to delete from the list. The threads keep
         //running in the background.
         l1.delete(3);
         l1.delete(4);       
        
-        Thread.sleep(2000);         //To give it time to run all the threads.
+        Thread.sleep(2000);         //To give it time to run all the delete threads.
         l1.printList();
         
     }    
