@@ -13,3 +13,5 @@ Instructions to run the test code:
   **_javac *.java_**
 3. Go to the parent folder and run it from there using the command.           
   **_java multithreadedlinkedlist.MultiThreadedLinkedList_** where multithreadedlinkedlist is the name of your package folder.
+
+To Use it in one of yor programs, just copy every class except multithreadedlinkedlist. For using it, you can check out the code in multithreadedlinkedlist's main method.
