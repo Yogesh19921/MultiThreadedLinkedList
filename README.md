@@ -1,5 +1,5 @@
-# multithreadedlinkedlist
-Generic Multi Threaded Linked list for java with thread safety
+# Generic Multi Threaded Linkedlist
+Generic Multi Threaded Linked list for java with thread safety.
 
 It is a simple implementation of Linked list to deal with multiple threads accessing the linked list.
 
