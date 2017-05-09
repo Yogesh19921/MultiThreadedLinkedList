@@ -9,4 +9,4 @@ MultiThreadedLinkedList is the main method which just shows an example of how to
 
 Instructions to run:
 1. Extract the files in a folder.
-2. Run the command from terminal *javac *.java*
+2. Run the command from terminal _javac *.java_
